@@ -1,7 +1,7 @@
 import React from "react";
 
 const Footer = () => (
-  <footer className="bg-yellow-900 p-8">
+  <footer className="bg-gray-600 p-8">
     <h1>good morning beach</h1>
     <div className="pt-8 w-1/2 sm:w-4/12 md:w-3/12">
       <div className="text-xs uppercase text-gray-400 font-medium mb-6">

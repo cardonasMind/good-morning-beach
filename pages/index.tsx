@@ -9,4 +9,5 @@ const IndexPage = () => (
     <Footer />
   </Fragment>
 );
+
 export default IndexPage;
