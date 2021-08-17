@@ -20,7 +20,7 @@ export default class extends App {
           />
           <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
           <meta name="mobile-web-app-capable" content="yes" />
-          <title>good morning beach</title>
+          <title>Good Morning Beach | From 9:00 p.m to 9:00 am</title>
         </Head>
 
         <Component {...pageProps} />
