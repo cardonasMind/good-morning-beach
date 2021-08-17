@@ -1,12 +1,14 @@
 import React from "react";
 
 const Newspapper = () => (
-  <div id="newspapper" className="bg-red-400 m-8 p-8 rounded-lg text-white">
+  <div id="newspapper" className="bg-red-400 m-32 p-8 rounded-lg text-white">
     <h1>
       Receive our newspaper every morning at 6:00 amat your home or office´s
       door.
     </h1>
     <span>*it includes news from 9:00 pmto 5:00 am</span>
+
+    <img src="/static/images/sections/newspapper/background.jpg" />
 
     <div id="newspapper-form">
       <form className="flex space-x-4 rounded sm:flex-row">
