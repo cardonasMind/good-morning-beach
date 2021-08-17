@@ -2,9 +2,7 @@ import React from "react";
 
 import Post from "./Post";
 
-const Blog = ({ latestsPosts }) => {
-  console.log(latestsPosts);
-
+const Blog = () => {
   return (
     <section id="blog" className="my-40 mx-8">
       <div className="flex">
